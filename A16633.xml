@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties gracious grant and priuilege to William Braithwait, for the sold printing, and publishing musicke, his way. &amp;c.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A16633</idno><idno type="EEBO-CITATION">99855646</idno>
+  <idno type="VID">21147</idno>
+  <idno type="EEBO-PROQUEST">2240897630</idno>
+  <idno type="STC">STC 3540</idno>
+  <idno type="STC">ESTC S120449</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99855646e"/>
+            <note>(EEBO-TCP ; phase 2, no. A16633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21147)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 702:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties gracious grant and priuilege to William Braithwait, for the sold printing, and publishing musicke, his way. &amp;c.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[W. Jones?,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1635]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Printer's name conjectured by and publication date from STC.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Braithwaite, William, fl. 1635-1639 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:21147:1"/>
+            <pb facs="tcp:21147:1"/>
+            <head>HIS MAIESTIES GRACIOVS GRANT AND PRI<g ref="char:EOLhyphen"/>VILEGE TO <hi>WILLIAM Braithwait,</hi> for the sole Prin<g ref="char:EOLhyphen"/>ting, and publishing Musicke, <hi>his way. &amp;c.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>HARLES</hi> by the grace of GOD, King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> defender of the Faith &amp;c. To all, to whom these presents shall come, greeting. Whereas, we are informed by the humble peti<g ref="char:EOLhyphen"/>tion of our well beloved subject, <hi>William Brai<g ref="char:EOLhyphen"/>thwait,</hi> Preacher, and Schoole-master. That af<g ref="char:EOLhyphen"/>ter many yeares labours, studies, and endea<g ref="char:EOLhyphen"/>vours, he hath accomplished an easie Method to facilitate Musicke, both for expedite, and ex<g ref="char:EOLhyphen"/>quisite composing; as also for speedy, and plea<g ref="char:EOLhyphen"/>sant teaching, and learning it, by voice, or Instru<g ref="char:EOLhyphen"/>ments. For voice, that he singeth seven usuall numerall Monosyllables, one, two, three, foure, five, sax, siven, and expresseth them by seven
+<pb n="2" facs="tcp:21147:2"/>Arithmeticall figures. 1 2 3 4 5 6 7. di<g ref="char:EOLhyphen"/>versly made, and that he singeth (as men reade) in one line, the name of the note appearing in it (tune and time, conspiring together in each fi<g ref="char:EOLhyphen"/>gure) Which other Authors, and Writers have not heretofore done. And by the same petition he further sheweth, that he hath performed a <hi>Ta<g ref="char:EOLhyphen"/>bleture</hi> for Instruments of Musicke, after the same manner, comprehending tune, and time in each Alphabeticall letter. And that also he hath devi<g ref="char:EOLhyphen"/>sed to expresse the long, and short syllables in the <hi>Greeke,</hi> and <hi>Latine</hi> tongues, by the letters them<g ref="char:EOLhyphen"/>selves, without the notes of length and short<g ref="char:EOLhyphen"/>nesse, which hath bin well approoved of, by sun<g ref="char:EOLhyphen"/>dry persons of learning, and judgment, and there<g ref="char:EOLhyphen"/>upon hath humbly besought us, in regard of his charges to be disbursed in publishing the said pre<g ref="char:EOLhyphen"/>misses, that we would be graciously pleased, to grant our Letters Patents of privilege unto him, for twenty one yeares, for the sole printing and putting to saile of any bookes, in the <hi>Greeke</hi> and <hi>Latine</hi> tongue, by his way so distinctly vowelled, and Musicke bookes, or lessons, by him so ex<g ref="char:EOLhyphen"/>pressed as aforesaid. Know ye that we gracious<g ref="char:EOLhyphen"/>ly favouring the industries of our subjects, in the investigation of such Art and Inventions, as may be of good use, and service to our people, and be<g ref="char:EOLhyphen"/>ing willing to incourage them in all lawfull, and commendable studies, and endeavours, by appro<g ref="char:EOLhyphen"/>priating unto them for some terme of yeares, the benefit and fruits of their inventions, of our espe<g ref="char:EOLhyphen"/>ciall Grace, certaine knowledge, and meere mo<g ref="char:EOLhyphen"/>tion,
+<pb n="3" facs="tcp:21147:2"/>having given, and granted, and by these pre<g ref="char:EOLhyphen"/>sents for us, our heires, and successors, doe give and grant, unto the said <hi>William Braithwait,</hi> his Executours, Administratours &amp; Assignes, full and free liberty, licence, power, privilege and autho<g ref="char:EOLhyphen"/>rity, that He, his Executours, Administratours &amp; Assignes, by him, and themselves, and by his, and their Deputies, shall and may, at all times here<g ref="char:EOLhyphen"/>after, during the terme of twenty-one yeares, next ensuing the date of these presents, at his, and their owne proper cost, and charges, Imprint, and publish, or cause to be Imprinted, and published within this our Realme of <hi>England,</hi> and domini<g ref="char:EOLhyphen"/>ons thereof (according to the said Method, way and meanes, so by him devised) any booke or bookes, Poeme or Poems, Lesson or Lessons, for the more easie teaching, and attaining of Mu<g ref="char:EOLhyphen"/>sicke, by voice, or Instruments, and for the furthe<g ref="char:EOLhyphen"/>rance of <hi>Poetry, Oratory,</hi> and gracefull pronuntia<g ref="char:EOLhyphen"/>tion of the <hi>Greeke,</hi> and <hi>Latine</hi> tongues, as afore<g ref="char:EOLhyphen"/>said, and the same booke or bookes, Poeme or Poems, Lesson or Lessons, and other the pre<g ref="char:EOLhyphen"/>misses, being by him, or them, or his, or their de<g ref="char:EOLhyphen"/>puty or deputies, so imprinted, or caused to be im<g ref="char:EOLhyphen"/>printed as aforesaid, to sell, utter, and put to saile within our said Realme of <hi>England,</hi> and domini<g ref="char:EOLhyphen"/>ons thereof, for his, and their best commodity and advantage. Wherefore our will and pleasure is, and by these presents of our more especiall grace, certaine knowledge, and meere motion, we doe for Vs, our Heires and Successours, straitly charge, and inhibite all and every person, and per<g ref="char:EOLhyphen"/>sons
+<pb n="4" facs="tcp:21147:3"/>whatsoever, other then the said <hi>William Braithwait,</hi> his Executours, Administratours, De<g ref="char:EOLhyphen"/>puties and Assignes; that they, or any of them, doe not hereafter within this our Realme of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> or the dominions thereof, print, publish or put to sale, or cause to be printed, published or put to sale, any booke or bookes, Poem or Po<g ref="char:EOLhyphen"/>ems, Lesson or Lessons, after the wayes, Me<g ref="char:EOLhyphen"/>thod, manner or formes so invented or devised by the said <hi>William Braithwait</hi> as aforesaid, nor shall import or bring, or cause to be imported or brought into this our said Realme and Domini<g ref="char:EOLhyphen"/>ons thereof, from any the parts beyond the Seas, or from any our Realmes, or Dominions, any booke, or bookes, Poem, or Poems, Lesson, or Lessons, so imprinted as aforesaid, during the said terme of twenty-one yeares next after the date hereof, to be sould in this our said Realme and dominions thereof, without the license, con<g ref="char:EOLhyphen"/>sent and agreement of the said <hi>William Brai<g ref="char:EOLhyphen"/>thwait,</hi> his Executors, Administrators &amp; Assignes or some of them, first had and obtained in wri<g ref="char:EOLhyphen"/>ting under his, or their hand, upon paine of the for<g ref="char:EOLhyphen"/>feiture, &amp; losse of the same booke, or bookes, Po<g ref="char:EOLhyphen"/>em or Poems, Lesson, or Lessons, so imprinted imported, and put to saile, contrary to the tenour and true meaning of this our present grant or privilege, and upon paine also of our high displea<g ref="char:EOLhyphen"/>sure, and such other penalties and punishments as by the Lawes &amp; Statutes of our Realme, or other<g ref="char:EOLhyphen"/>wise may be inflicted on the offenders therein: for their contempt, and neglect of our royall will, and
+<pb n="5" facs="tcp:21147:3"/>cōmandement, herein before declared. To HAVE and to hold the said Licences, Powers, Privileges and Authorities, and other the premisses by these presents granted, or mentioned to be granted, to the said <hi>W. Braithwait,</hi> his Executours, Administrators and Assignes, for and during the said terme of twenty-one yeares, from henceforth next ensu<g ref="char:EOLhyphen"/>ing, and fully to be complete and ended. And We doe by these presents, for Vs, our Heires, and Successours, give and grant unto the said <hi>William Braithwait,</hi> his Executors, Admini<g ref="char:EOLhyphen"/>strators and Assignes, full power, and authority, that he, they, and every one of them, by him, and themselves, or any of them, or by his or their Deputies, Servants, or Agents, shall and may, with the assistance of a Constable, or o<g ref="char:EOLhyphen"/>ther lawfull Officer, at convenient time, and times, enter into any House, Shop, Worke<g ref="char:EOLhyphen"/>house or any other place or places whatsoever, where any cause of suspition shall be had, and there to view and search, aswell for all such booke, or bookes, Poem, or Poems, Lesson or Les<g ref="char:EOLhyphen"/>ons, as shall be so printed, imported or brought into this our Realme, or Dominions thereof, to be sold, as aforesaid, as for all such Mu<g ref="char:EOLhyphen"/>sicall-Arithmetical figures, Punchions, Matrices, Alphabeticall Letters for Tableture, and other such tooles, and Instruments, as shall be used, had, made, or imployed, in or about the premisses, or any of them, contrary to the tenour, and intent of these presents. And the same being found, to seize, and take, as forfeited to Vs, our heires, and
+<pb n="6" facs="tcp:21147:4"/>successors; the one moetie whereof to be to Vs our heires and successors, the other moetie there<g ref="char:EOLhyphen"/>of to be and remaine to the said <hi>William Brai<g ref="char:EOLhyphen"/>thwait,</hi> his Executors and Assignes: And we doe by these presents for Vs, our Heires, and Succes<g ref="char:EOLhyphen"/>sors, will, and command all, and singular Majors, Sheriffes, Iustices of Peace, Bailiffes, Consta<g ref="char:EOLhyphen"/>bles, and Headborroughs, and other the Officers, Ministers, and subjects of Vs, our Heires and Suc<g ref="char:EOLhyphen"/>cessors, that they and every of them be from time to time during the terme aforesaid, ayding, hel<g ref="char:EOLhyphen"/>ping and assisting to the said <hi>William Braithwait,</hi> his Executours, Administratours, Deputies &amp; As<g ref="char:EOLhyphen"/>signes in all things in and about the accomplish<g ref="char:EOLhyphen"/>ment of our pleasure herein declared, &amp; in full, &amp; due execution of these presents, that they, nor any of them, doe at any time hinder, molest, or inter<g ref="char:EOLhyphen"/>rupt the said <hi>William Braithwait,</hi> his Executors, Administrators, Deputies, or Assignes, or any of them, in the having, taking, or enjoying of the Licences, privileges, benefits and profits by Vs hereby granted and intended to him and them, as aforesaid, as they tender our pleasure, and will avoide the contrary at their perill: and these our Letters Patents or the inrowlment thereof shall be their sufficient warrant in that behalfe. PROVI<g ref="char:EOLhyphen"/>DED neverthelesse, and our will &amp; pleasure is, that if at any time during the said terme of twenty-one yeares, it shall appeare unto Vs, our Heires or Successours, or unto the Lords, and others of the privie Councell of Vs, our Heires or Successours, that this our present grant is contrary to our lawes,
+<pb n="7" facs="tcp:21147:4"/>or in any sort mischievous, or inconvenient to the state of this our Realme, then upon signification, and declaration to be made by Vs, our Heires, or Successors, under our signet, or privie seale, or from the Lords, and others of the privie Counsell, or six or more of them (for the time being, of such prejudice, &amp; inconvenience as aforesaid,) these our Letters Patents shall forthwith cease, determin, and be utterly voide to all intents, constructions, and purposes. And wee doe hereby grant, for Vs, our Heires, and Successors, that these our Letters Patents, or the inrowlment thereof, shall be good, firme, and effectuall in the Law, according to the truemeaning of the same. NOTVVITHSTANDING the not mentioning or describing, or the not cer<g ref="char:EOLhyphen"/>taine mentioning or describing of the said method, wayes, or meanes by the said <hi>William Braithwait</hi> so devised as aforesaid, and notwithstanding any other defect, incertaintie, or imperfection in these presents, or in any Law, Act, Statute, Ordinance, Provision, or Restriction whatsoever heretofore had, made, published, or provided to the contra<g ref="char:EOLhyphen"/>ry thereof in any wise notwithstanding. Never<g ref="char:EOLhyphen"/>thelesse, our intent, and meaning is, that this our present grant of priviledge or any thing therein contained, shall not extend to prejudice any per<g ref="char:EOLhyphen"/>son, or persons in his, or their lawfull proprietie, right, or interest for the sole printing or publishing of any his or their Booke or Bookes, Poem or Poems, Lesson or Lessons, Copie or Copies, so as he, or they doe not print, or publish the same ac<g ref="char:EOLhyphen"/>cording to the method, way, or invention of the
+<pb n="8" facs="tcp:21147:5"/>sayd <hi>William Braithwait,</hi> any thing in these pre<g ref="char:EOLhyphen"/>sents contained to the contrary in any wise not<g ref="char:EOLhyphen"/>withstanding. ALTHOVGH expresse mentiō of the certaintie of the premisses, or any of them, or of a<g ref="char:EOLhyphen"/>ny other gift, or grant by Vs, or any of our Proge<g ref="char:EOLhyphen"/>nitours or Predecessours to the said <hi>William Brai<g ref="char:EOLhyphen"/>thwait</hi> hertofore made in these presents, is not made or any Statute, Act, or Ordinance, Provision, Pro<g ref="char:EOLhyphen"/>clamation, or Restraint heretofore had, made, or<g ref="char:EOLhyphen"/>dained or provided, or any other thing, cause, or matter whatsoever to the contrary thereof in any wise notwithstanding. In witnesse whereof wee have caused these our Letters to be made Patents. Witnesse our selfe at <hi>Canbury</hi> the eighteenth day of <hi>August</hi> in the Eleventh yeere of our Reigne.</p>
+            <pb facs="tcp:21147:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
